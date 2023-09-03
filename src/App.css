@@ -21,6 +21,25 @@
     margin-top: 1%;
 }
 
-@media (max-width: 1024px) {
-    
+.contact-search{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
+
+.navigationIcon{
+    flex-direction: column;
+}
+
+@media (max-width: 1024px) {
+    .contactPhoto{
+        justify-content: center;
+        margin: 14px 0;
+        display: flex;
+    }
+    .navigationIcon{
+        flex-direction: row;
+        justify-content: center;
+        gap: 20px;
+    }
+}
+

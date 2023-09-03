@@ -85,7 +85,7 @@ function ContactList() {
 
   return (
     <React.Fragment>
-        <section className="contact-search p-5">
+        <section className="contact-search">
           <div className="container">
             <div className="grid">
               <div className="row">
@@ -132,7 +132,7 @@ function ContactList() {
                         <div className="card my-2">
                           <div className="card-body">
                             <div className="row align-items-center">
-                              <div className="col-md-4">
+                              <div className="col-md-4 contactPhoto">
                                 <img src={contact.photo} alt="" className='img-fluid user-image'/>
                               </div>
                               <div className="col-md-7">
@@ -148,7 +148,7 @@ function ContactList() {
                                   </li>
                                 </ul>
                               </div>
-                              <div className="col-md-1 d-flex flex-column align-items-center">
+                              <div className="col-md-1 d-flex navigationIcon align-items-center">
                                 <Link to={`/contacts/view/${contact.id}`} className='btn btn-warning my-1'>
                                   <i className='fa fa-eye'></i>
                                 </Link>

@@ -56,7 +56,7 @@ function ViewContact() {
               <section className="view-contact-body mt-3">
                 <div className="container">
                   <div className="row">
-                    <div className="col-md-4">
+                    <div className="col-md-4 contactPhoto">
                       <img src={contact.photo} alt="" className='img-fluid user-image'/>
                     </div>
                     <div className="col-md-8">
