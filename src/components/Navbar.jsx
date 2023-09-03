@@ -11,6 +11,8 @@ export default function Navbar() {
                     </Link>
                 </div>
             </nav>
+
+            <h4 className='hompage-icon'><i class="fa-regular fa-hand-point-up"></i> Click on the above link to begin</h4>
         </React.Fragment>
     )
 }
