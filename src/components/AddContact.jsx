@@ -118,7 +118,7 @@ export default function AddContact() {
                   </div>
                   <div className="mb-2">
                     <PhoneInput 
-                      country={'us'}
+                      country={'in'}
                       name='mobile'
                       value={contact.mobile}
                       onChange={handleCh}
