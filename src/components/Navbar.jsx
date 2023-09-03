@@ -12,7 +12,7 @@ export default function Navbar() {
                 </div>
             </nav>
 
-            <h5 className='hompage-icon'><i class="fa-regular fa-hand-point-up"></i> Click here to begin</h5>
+            <h5 className='hompage-icon'><i class="fa-regular fa-hand-point-up"></i> Click above to begin</h5>
         </React.Fragment>
     )
 }
