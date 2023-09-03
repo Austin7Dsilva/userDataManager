@@ -1,0 +1,17 @@
+.user-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.errorText{
+    color: red;
+}
+
+.react-tel-input .form-control{
+    width: inherit !important;
+}
+
+.proheading{
+    text-align: center;
+}
