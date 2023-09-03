@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/userDataManager/static/css/main.abcb32d7.css",
-    "main.js": "/userDataManager/static/js/main.8c89eb32.js",
+    "main.css": "/userDataManager/static/css/main.e5a48d31.css",
+    "main.js": "/userDataManager/static/js/main.1661bda3.js",
     "static/js/787.0fdea26b.chunk.js": "/userDataManager/static/js/787.0fdea26b.chunk.js",
     "static/media/fa-solid-900.ttf": "/userDataManager/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/userDataManager/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
@@ -13,12 +13,12 @@
     "static/media/fa-v4compatibility.ttf": "/userDataManager/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/userDataManager/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/userDataManager/index.html",
-    "main.abcb32d7.css.map": "/userDataManager/static/css/main.abcb32d7.css.map",
-    "main.8c89eb32.js.map": "/userDataManager/static/js/main.8c89eb32.js.map",
+    "main.e5a48d31.css.map": "/userDataManager/static/css/main.e5a48d31.css.map",
+    "main.1661bda3.js.map": "/userDataManager/static/js/main.1661bda3.js.map",
     "787.0fdea26b.chunk.js.map": "/userDataManager/static/js/787.0fdea26b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abcb32d7.css",
-    "static/js/main.8c89eb32.js"
+    "static/css/main.e5a48d31.css",
+    "static/js/main.1661bda3.js"
   ]
 }
